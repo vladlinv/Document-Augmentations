@@ -15,5 +15,5 @@
 
 ---
 
-This pipeline was used alongside standard on-the-fly augmentations to train the [Russian PP-OCRv6 models](https://github.com/vladlinv/PP-OCRv6_rec_ru) and to generate synthetic crop examples for the [RU OCR Rec Benchmark](https://huggingface.co/datasets/vladlinv/ru-ocr-benchmark-hard).
+This pipeline was used alongside standard on-the-fly augmentations to train the [Russian PP-OCRv6 models](https://github.com/metrika-labs/PP-OCRv6_rec_ru) and to generate synthetic crop examples for the [RU OCR Rec Benchmark](https://huggingface.co/datasets/metrika-labs/ru-ocr-benchmark-hard).
 
